@@ -1,4 +1,3 @@
-# Looping Lab
 
 ## Learning Goals
 
